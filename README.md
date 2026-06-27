@@ -10,7 +10,7 @@
 
 **Dataset Name:** Global Superstore 2016
 
-**Source:** https://www.kaggle.com/82](https://www.kaggle.com/datasets/abiramibalaji1502/global-superstore-sales-analysis-dataset-2016
+**Source:** https://www.kaggle.com/datasets/abiramibalaji1502/global-superstore-sales-analysis-dataset-2016
 
 **Rows:** 51,298
 
